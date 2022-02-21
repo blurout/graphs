@@ -10,6 +10,7 @@ Data Structure Series: Graphs, Graph Theory, and Graph Implementations
 
 ## ***More updates coming soon to this repository:*** ###  
 * CLI (command line user interface)
+* Problem Solutions
 * more funcs
 * custom graph package
 * doc strings and notes for all funcs
